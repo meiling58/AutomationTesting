@@ -1,6 +1,13 @@
 # Overview
 This repo using VScode to setup all automation testing.
-
+- Local setup:
+1. Install VScode
+2. Install Python
+3. Install Java
+4. Open VScode and adding extensions:
+   - Python Extension: For robot framework automation testing
+   - Robot Framework Language Server Extension: For robot framework automation testing
+   - 
 ## Automation Testing
 Automation Testing means using specialized software tools and scripts to automatically execute test cases.
 ## Automation Testing Tools/Software
