@@ -1,4 +1,7 @@
-# Automation Testing
+# Overview
+This repo using VScode to setup all automation testing.
+
+## Automation Testing
 Automation Testing means using specialized software tools and scripts to automatically execute test cases.
 ## Automation Testing Tools/Software
 Popular tools include Selenium, Appium, Cypress, Playwright, LambdaTest, Cucumber, Katalon Studio, TestComplete, Tricentis Tosca, Postman, Ranorex, Robot Framework, ACCELQ, Eggplant, Apache JMeter, Applitools, Jest, Perfecto, Puppeteer, TestNB, Parasoft, leapwork
