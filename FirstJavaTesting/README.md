@@ -5,6 +5,7 @@ For VScode extensions:
 
 Coding Tips:
 - code format automatically: go to ->View->Command Palette search for "Format Document with.." and Select "Configure Default Formatt..", Then pick "Language Support for Java(TM) by Red Hat"
+- Cannot edit code: go to ->View->Command Palette search for "Java: clean the Java language server workspace" and enter.
 
 Reference Links:
 - [Java](https://www.java.com/en/)
