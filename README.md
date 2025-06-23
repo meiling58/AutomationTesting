@@ -8,6 +8,7 @@ This repo using VScode to setup all automation testing.
    - Python Extension: For robot framework automation testing
    - Robot Framework Language Server Extension: For robot framework automation testing
    - 
+5. Run the local setup bat file, for example run "robot_setup_local.bat for robot testing projects.
 ## Automation Testing
 Automation Testing means using specialized software tools and scripts to automatically execute test cases.
 ## Automation Testing Tools/Software
